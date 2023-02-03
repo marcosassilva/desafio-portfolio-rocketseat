@@ -5,6 +5,11 @@ Este é um dos desafios de HTML e CSS disponíveis na plataforma Rocketseat. �
 </p>
 
 <p align="center">
+<a href="https://marcosassilva.github.io/portfolio-rocketseat/">Acesse o projeto aqui!</a>
+ <br/>
+</p>
+
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
