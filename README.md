@@ -1,11 +1,11 @@
 <h1 align="center"> Portfolio </h1>
 
 <p align="center">
-Este é um dos desafios de HTML e CSS disponíveis na plataforma Rocketseat. 😁 <br/>
+Este é um dos desafios disponíveis na plataforma Rocketseat, feito para exercício de conhecimentos em HTML e CSS. 😁 <br/>
 </p>
 
 <p align="center">
-<a href="https://marcosassilva.github.io/portfolio-rocketseat/">Acesse o projeto aqui!</a>
+<strong><a href="https://marcosassilva.github.io/portfolio-rocketseat/">Acesse o projeto aqui!</a></strong>
  <br/>
 </p>
 
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Trata-se de uma página estática com HTML e CSS apresentando portfolio da área de tecnologia.
 
-- [Visite o projeto online](https://marcosassilva.github.io/portfolio-rocketseat/)
+- [Visite o projeto online.](https://marcosassilva.github.io/portfolio-rocketseat/)
 
 ## 🔖 Layout
 
