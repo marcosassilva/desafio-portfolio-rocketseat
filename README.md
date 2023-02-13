@@ -5,7 +5,7 @@ Este é um dos desafios disponíveis na plataforma Rocketseat, feito para exerc�
 </p>
 
 <p align="center">
-<strong><a href="https://marcosassilva.github.io/portfolio-rocketseat/">Acesse o projeto aqui!</a></strong>
+<strong><a href="https://marcosassilva.github.io/desafio-portfolio-rocketseat/">Acesse o projeto aqui!</a></strong>
  <br/>
 </p>
 
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Trata-se de uma página estática com HTML e CSS apresentando portfolio da área de tecnologia.
 
-- [Visite o projeto online.](https://marcosassilva.github.io/portfolio-rocketseat/)
+- [Visite o projeto online.](https://marcosassilva.github.io/desafio-portfolio-rocketseat/)
 
 ## 🔖 Layout
 
